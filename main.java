@@ -59,7 +59,7 @@ public class main {
 				boolean che=user.check(username, pswd,"Admin");
 				if(che)
 				{
-					System.out.println("sucess");
+					System.out.println("success");
 				}
 				else
 				{
@@ -75,7 +75,7 @@ public class main {
 				boolean che=user.check(username, pswd,"Customer");
 				if(che)
 				{
-					System.out.println("sucess");
+					System.out.println("success");
 				}
 				else
 				{
